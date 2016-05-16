@@ -8,4 +8,8 @@ border:green 1px solid;
 background-color:white;
 
 }
-
+#ingredint{
+  border:2px solid lightcoral;
+  th,td{
+    border:1px solid lightcoral;
+}
